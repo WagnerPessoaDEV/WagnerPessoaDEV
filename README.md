@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Wagner Pessoa👋
 
-- 🔭 Hoje trabalho com front - end ...
+- 🔭 Hoje trabalho com front - end
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 <div style="display: inline_block"><br>
