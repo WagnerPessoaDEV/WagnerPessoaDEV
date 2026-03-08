@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">Estou iniciando meus estudos na área de Tecnologia da Informação e utilizo o GitHub para registrar minha evolução e praticar o que venho aprendendo.<br><br>Aqui você vai encontrar exercícios, códigos simples e pequenos projetos feitos durante meus estudos em programação e lógica, sempre com foco em aprender na prática e melhorar um pouco a cada dia.<br><br>💡 Ainda estou no começo da jornada, mas com muita vontade de aprender, errar, corrigir e evoluir.<br><br>📚 Este GitHub é basicamente meu caderno de estudos, onde coloco tudo o que estou praticando.<br><br>Seja bem-vindo(a) e fique à vontade para acompanhar meu progresso! 🚀<br>csharp logo  css logo  html5 logo  photoshop logo  vscode logo</h3>
+<h3 align="center">Estou iniciando meus estudos na área de Tecnologia da Informação e utilizo o GitHub para registrar minha evolução e praticar o que venho aprendendo.<br><br>Aqui você vai encontrar exercícios, códigos simples e pequenos projetos feitos durante meus estudos em programação e lógica, sempre com foco em aprender na prática e melhorar um pouco a cada dia.<br><br>💡 Ainda estou no começo da jornada, mas com muita vontade de aprender, errar, corrigir e evoluir.<br><br>📚 Este GitHub é basicamente meu caderno de estudos, onde coloco tudo o que estou praticando.<br><br>Seja bem-vindo(a) e fique à vontade para acompanhar meu progresso! 🚀</h3>
 
 ###
 
