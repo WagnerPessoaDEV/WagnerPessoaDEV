@@ -23,13 +23,13 @@
 
 <div align="center">
   <a href="https://www.instagram.com/wagnerpessoadev">
-    <img width="40" alt="image" src="https://github.com/user-attachments/assets/668d5147-504f-4cdc-8d8b-696dcd96ef6a" />
+    <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/WagnerPessoaDEV/">
-    <img width="40" alt="image" src="https://github.com/user-attachments/assets/ef9b73f5-66b2-4911-ad58-b33f937b61d0"/>
+   <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="mailto:wagnerpessoa.dev@gmail.com">
-    <img width="40" alt="image" src="https://github.com/user-attachments/assets/a61acc79-0149-405d-81dc-4055c6391eef"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </div>
 
