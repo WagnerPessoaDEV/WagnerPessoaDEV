@@ -33,10 +33,14 @@
   </a>
 </div>
 
+####
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WagnerPessoaDEV&color=blue&style=for-the-badge"/>
+  
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevRodrigoCarvalho&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=WagnerPessoaDEV&theme=tokyonight&hide_border=true"/>
 </div>
 
 ###
