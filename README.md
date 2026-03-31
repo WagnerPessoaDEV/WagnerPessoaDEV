@@ -31,6 +31,9 @@
   <a href="mailto:wagnerpessoa.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
+   <a href="https://discord.com/users/panico021">
+    <img src="https://skillicons.dev/icons?i=discord"/>
+  </a>
 </div>
 
 ####
