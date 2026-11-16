@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="28" viewBox="0 0 112 28" role="img" aria-labelledby="title">
+<title id="title">LinkedIn</title>
+<style>text{font-family:Consolas,"DejaVu Sans Mono","Courier New",monospace}text{font-family:Verdana,Geneva,DejaVu Sans,sans-serif}</style>
+<rect x="0" y="0" width="112" height="28" rx="0" fill="#0d1117" stroke="none"/>
+<rect x="9" y="7" width="14" height="14" rx="2" fill="#58a6ff" stroke="none"/>
+<g fill="#0d1117"><circle cx="12.5" cy="10.7" r="1.1"/><path d="M11.5 12.5h2v6.4h-2zm3.4 0h1.9v.9c.4-.7 1-1 1.9-1 1.5 0 2.3.9 2.3 2.6v3.9h-2v-3.6c0-.8-.3-1.2-1-1.2-.8 0-1.1.5-1.1 1.3v3.5h-2z"/></g>
+<text x="29" y="17.5" fill="#ffffff" font-size="10" font-weight="700" text-anchor="start" xml:space="preserve" textLength="67">LINKEDIN</text>
+</svg>
