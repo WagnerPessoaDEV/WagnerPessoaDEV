@@ -14,7 +14,7 @@
 
 <br />
 
-<img src="assets/h-sobre.svg" width="100%" alt="Sobre mim" />
+<img src="assets/h-sobre-animado.svg" width="100%" alt="Sobre mim" />
 
 <img src="assets/editor.svg" width="43%" align="right" alt="Arquivo sobre_mim.js" />
 
@@ -33,20 +33,20 @@ Aqui compartilho exercícios de lógica e programação e projetos web que desen
 <br clear="right" />
 <br />
 
-<img src="assets/h-tecnologias.svg" width="100%" alt="Tecnologias" />
+<img src="assets/h-tecnologias-animado.svg" width="100%" alt="Tecnologias" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,git,github,vscode,ps&amp;theme=dark&amp;perline=11" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Git, GitHub, VS Code e Photoshop" />
 </p>
 
-<img src="assets/h-projetos.svg" width="100%" alt="Projetos em destaque" />
+<img src="assets/h-projetos-animado.svg" width="100%" alt="Projetos em destaque" />
 
 <p align="center">
   <a href="https://github.com/WagnerPessoaDEV/CuidarBem"><img src="assets/CuidarBem.svg" width="48%" alt="CuidarBem — site institucional para uma ONG" /></a>
   <a href="https://github.com/WagnerPessoaDEV/Marca.AI"><img src="assets/Marca.AI.svg" width="48%" alt="Marca.AI — sistema de agendamento de serviços" /></a>
 </p>
 
-<img src="assets/h-estatisticas.svg" width="100%" alt="Estatísticas" />
+<img src="assets/h-estatisticas-animado.svg" width="100%" alt="Estatísticas" />
 
 <p align="center">
   <img src="assets/estatisticas.svg" width="100%" alt="GitHub em 16/11/2026. 17 repositórios públicos, 24 seguidores. Linguagens principais por repositório: HTML 6, JavaScript 3, CSS 3, Python 2, TypeScript 1" />
@@ -56,7 +56,7 @@ Aqui compartilho exercícios de lógica e programação e projetos web que desen
   <img src="https://streak-stats.demolab.com?user=WagnerPessoaDEV&amp;locale=pt_BR&amp;hide_border=true&amp;border_radius=12&amp;disable_animations=true&amp;background=0D1117&amp;ring=3FB950&amp;fire=3FB950&amp;currStreakLabel=3FB950&amp;sideLabels=E6EDF3&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=9DA7B3" alt="Sequência de contribuições no GitHub" />
 </p>
 
-<img src="assets/h-contribuicoes.svg" width="100%" alt="Contribuições" />
+<img src="assets/h-contribuicoes-animado.svg" width="100%" alt="Contribuições" />
 
 <p align="center">
   <a href="https://github.com/WagnerPessoaDEV"><img src="assets/contribuicoes.svg" width="100%" alt="Calendário de contribuições de 16/11/2025 a 16/11/2026. 1 indica atividade e 0 indica ausência." /></a>
