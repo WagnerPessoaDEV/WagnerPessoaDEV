@@ -8,6 +8,9 @@
   <a href="https://www.instagram.com/wagnerpessoadev/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=D2A8FF" alt="Instagram" /></a>
   <a href="mailto:wagnerpessoa.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFA657" alt="E-mail" /></a>
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0D1117?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=D2A8FF" alt="Rio de Janeiro" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=WagnerPessoaDEV&amp;label=visitas&amp;color=0D1117&amp;style=for-the-badge" alt="Visitas ao perfil" />
 </p>
 
