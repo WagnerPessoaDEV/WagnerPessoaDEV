@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="354" viewBox="0 0 960 354" role="img" aria-labelledby="title">
+<title id="title">Wagner Pessoa | Desenvolvedor Front-End, Analista de QA e Help Desk</title>
+<style>text{font-family:Consolas,"DejaVu Sans Mono","Courier New",monospace}.cursor{animation:blink 1.2s steps(2,start) infinite}@keyframes blink{to{opacity:0}}.monogram{filter:drop-shadow(0 0 5px #3fb950)}@media(prefers-reduced-motion:reduce){.cursor{animation:none}}</style>
+<rect x="1" y="1" width="958" height="352" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect x="2" y="2" width="956" height="42" rx="13" fill="#161b22" stroke="none"/>
+<rect x="2" y="25" width="956" height="20" rx="0" fill="#161b22" stroke="none"/>
+<rect x="2" y="45" width="956" height="1" rx="0" fill="#30363d" stroke="none"/>
+<circle cx="22" cy="23" r="5.5" fill="#ff7b72"/>
+<circle cx="42" cy="23" r="5.5" fill="#e3b341"/>
+<circle cx="62" cy="23" r="5.5" fill="#3fb950"/>
+<text x="480.0" y="29" fill="#9da7b3" font-size="15" font-weight="400" text-anchor="middle" xml:space="preserve">wagner@github: ~ — bash</text>
+<text x="28" y="91" fill="#3fb950" font-size="16" font-weight="700" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="91" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$ </text>
+<text x="190" y="91" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">whoami</text>
+<text x="28" y="119" fill="#e6edf3" font-size="24" font-weight="700" text-anchor="start" xml:space="preserve">Wagner Pessoa</text>
+<text x="28" y="151" fill="#3fb950" font-size="16" font-weight="700" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="151" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$ </text>
+<text x="190" y="151" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">cat foco.txt</text>
+<text x="28" y="179" fill="#d2a8ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">Desenvolvimento Front-End</text>
+<text x="277" y="179" fill="#9da7b3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">&amp;&amp;</text>
+<text x="310" y="179" fill="#e3b341" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">QA e Help Desk</text>
+<text x="28" y="205" fill="#3fb950" font-size="16" font-weight="700" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="205" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$ </text>
+<text x="190" y="205" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">echo $LOCALIZACAO</text>
+<text x="28" y="233" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">Rio de Janeiro, Brasil</text>
+<text x="28" y="260" fill="#3fb950" font-size="16" font-weight="700" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="260" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$ </text>
+<text x="190" y="260" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">./carregar_perfil.sh</text>
+<text x="28" y="287" fill="#9da7b3" font-size="15" font-weight="400" text-anchor="start" xml:space="preserve">[</text>
+<rect x="42" y="275" width="273" height="12" rx="1" fill="#2ea043" stroke="none"/>
+<text x="321" y="287" fill="#9da7b3" font-size="15" font-weight="400" text-anchor="start" xml:space="preserve">]</text>
+<text x="354" y="287" fill="#3fb950" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">✓ perfil carregado</text>
+<text x="28" y="315" fill="#3fb950" font-size="16" font-weight="700" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="315" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$ </text>
+<text x="190" y="315" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve"></text>
+<rect class="cursor" x="190" y="300" width="10" height="18" rx="1" fill="#e6edf3" stroke="none"/>
+<g class="monogram"><rect x="738" y="112" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="790" y="112" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="816" y="112" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="829" y="112" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="842" y="112" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="855" y="112" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="738" y="125" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="790" y="125" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="816" y="125" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="868" y="125" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="738" y="138" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="790" y="138" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="816" y="138" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="868" y="138" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="738" y="151" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="790" y="151" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="816" y="151" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="829" y="151" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="842" y="151" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="855" y="151" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="738" y="164" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="764" y="164" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="790" y="164" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="816" y="164" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="738" y="177" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="764" y="177" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="790" y="177" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="816" y="177" width="11" height="11" rx="2" fill="#5bc1c4" stroke="none"/><rect x="751" y="190" width="11" height="11" rx="2" fill="#56d364" stroke="none"/><rect x="777" y="190" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/><rect x="816" y="190" width="11" height="11" rx="2" fill="#3fb950" stroke="none"/></g>
+<text x="812" y="230" fill="#9da7b3" font-size="13" font-weight="400" text-anchor="middle" xml:space="preserve">// front-end, QA e suporte</text>
+</svg>

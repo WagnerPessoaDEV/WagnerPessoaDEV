@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="113" viewBox="0 0 960 113" role="img" aria-labelledby="title">
+<title id="title">Valeu pela visita!</title>
+<style>text{font-family:Consolas,"DejaVu Sans Mono","Courier New",monospace}</style>
+<rect x="1" y="1" width="958" height="111" rx="13" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="43" fill="#3fb950" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">wagner@github</text>
+<text x="151" y="43" fill="#79c0ff" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">:~$</text>
+<text x="190" y="43" fill="#e6edf3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">exit</text>
+<text x="28" y="77" fill="#3fb950" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">&gt; Valeu pela visita! Volte sempre :)</text>
+<text x="932" y="77" fill="#9da7b3" font-size="16" font-weight="400" text-anchor="end" xml:space="preserve">[processo finalizado com código 0]</text>
+</svg>

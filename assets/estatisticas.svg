@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="201" viewBox="0 0 960 201" role="img" aria-labelledby="title">
+<title id="title">GitHub em 16/11/2026. 17 repositórios públicos, 24 seguidores. Linguagens principais por repositório: HTML 6, JavaScript 3, CSS 3, Python 2, TypeScript 1</title>
+<style>text{font-family:Consolas,"DejaVu Sans Mono","Courier New",monospace}</style>
+<rect x="1" y="1" width="958" height="199" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" fill="#3fb950" font-size="24" font-weight="700" text-anchor="start" xml:space="preserve">$ git stats</text>
+<text x="25" y="73" fill="#e6edf3" font-size="20" font-weight="400" text-anchor="start" xml:space="preserve">17  repositórios públicos</text>
+<text x="25" y="105" fill="#e6edf3" font-size="20" font-weight="400" text-anchor="start" xml:space="preserve">24  seguidores</text>
+<text x="25" y="137" fill="#e6edf3" font-size="20" font-weight="400" text-anchor="start" xml:space="preserve">90  dias ativos no último ano</text>
+<text x="25" y="172" fill="#9da7b3" font-size="16" font-weight="400" text-anchor="start" xml:space="preserve">Consulta em 16/11/2026</text>
+<rect x="402" y="21" width="1" height="158" rx="0" fill="#30363d" stroke="none"/>
+<text x="427" y="35" fill="#79c0ff" font-size="20" font-weight="700" text-anchor="start" xml:space="preserve">Linguagem principal por repositório</text>
+<text x="427" y="66" fill="#e6edf3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">HTML</text>
+<rect x="558" y="55" width="311" height="9" rx="4" fill="#161b22" stroke="none"/>
+<rect x="558" y="55" width="311.0" height="9" rx="4" fill="#e3b341" stroke="none"/>
+<text x="925" y="66" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="end" xml:space="preserve">6</text>
+<text x="427" y="91" fill="#e6edf3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">JavaScript</text>
+<rect x="558" y="80" width="311" height="9" rx="4" fill="#161b22" stroke="none"/>
+<rect x="558" y="80" width="155.5" height="9" rx="4" fill="#d2a8ff" stroke="none"/>
+<text x="925" y="91" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="end" xml:space="preserve">3</text>
+<text x="427" y="116" fill="#e6edf3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">CSS</text>
+<rect x="558" y="105" width="311" height="9" rx="4" fill="#161b22" stroke="none"/>
+<rect x="558" y="105" width="155.5" height="9" rx="4" fill="#3fb950" stroke="none"/>
+<text x="925" y="116" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="end" xml:space="preserve">3</text>
+<text x="427" y="141" fill="#e6edf3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">Python</text>
+<rect x="558" y="130" width="311" height="9" rx="4" fill="#161b22" stroke="none"/>
+<rect x="558" y="130" width="103.66666666666667" height="9" rx="4" fill="#79c0ff" stroke="none"/>
+<text x="925" y="141" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="end" xml:space="preserve">2</text>
+<text x="427" y="166" fill="#e6edf3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">TypeScript</text>
+<rect x="558" y="155" width="311" height="9" rx="4" fill="#161b22" stroke="none"/>
+<rect x="558" y="155" width="51.833333333333336" height="9" rx="4" fill="#ff7b72" stroke="none"/>
+<text x="925" y="166" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="end" xml:space="preserve">1</text>
+</svg>

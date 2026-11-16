@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="456" height="145" viewBox="0 0 456 145" role="img" aria-labelledby="title">
+<title id="title">CuidarBem — Site institucional para uma ONG</title>
+<style>text{font-family:Consolas,"DejaVu Sans Mono","Courier New",monospace}</style>
+<rect x="1" y="1" width="454" height="143" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="22" y="37" fill="#3fb950" font-size="24" font-weight="700" text-anchor="start" xml:space="preserve">~/ CuidarBem</text>
+<text x="432" y="37" fill="#79c0ff" font-size="22" font-weight="400" text-anchor="end" xml:space="preserve">↗</text>
+<text x="22" y="75" fill="#e6edf3" font-size="19" font-weight="400" text-anchor="start" xml:space="preserve">Site institucional para uma ONG</text>
+<circle cx="28" cy="111" r="5" fill="#79c0ff"/>
+<text x="43" y="117" fill="#9da7b3" font-size="17" font-weight="400" text-anchor="start" xml:space="preserve">React · TypeScript · Vite</text>
+</svg>
