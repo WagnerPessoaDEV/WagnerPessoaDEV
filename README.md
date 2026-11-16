@@ -7,7 +7,6 @@
   <a href="https://wagnerpessoa.me"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&amp;logo=firefoxbrowser&amp;logoColor=39D353" alt="Portfólio" /></a>
   <a href="https://www.instagram.com/wagnerpessoadev/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&amp;logo=instagram&amp;logoColor=D2A8FF" alt="Instagram" /></a>
   <a href="mailto:wagnerpessoa.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFA657" alt="E-mail" /></a>
-  <img src="https://img.shields.io/badge/Discord%20%40panico021-0D1117?style=for-the-badge&amp;logo=discord&amp;logoColor=D2A8FF" alt="Discord @panico021" />
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-0D1117?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=D2A8FF" alt="Rio de Janeiro" />
   <img src="https://komarev.com/ghpvc/?username=WagnerPessoaDEV&amp;label=visitas&amp;color=0D1117&amp;style=for-the-badge" alt="Visitas ao perfil" />
 </p>
