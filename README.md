@@ -20,7 +20,7 @@
 
 <img src="assets/editor.svg" width="43%" align="right" alt="Arquivo sobre_mim.js" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Consolas&amp;weight=700&amp;size=23&amp;duration=2700&amp;pause=1100&amp;color=3FB950&amp;width=440&amp;height=38&amp;lines=%3E+Ol%C3%A1%2C+eu+sou+o+Wagner%21%3B%3E+Desenvolvimento+Front-End%3B%3E+An%C3%A1lise+de+QA+e+Help+Desk" width="50%" alt="Olá, eu sou o Wagner!" />
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&amp;weight=700&amp;size=23&amp;duration=2700&amp;pause=1100&amp;color=3FB950&amp;width=440&amp;height=38&amp;lines=%3E+Ol%C3%A1%2C+eu+sou+o+Wagner%21%3B%3E+Desenvolvimento+Front-End%3B%3E+An%C3%A1lista+de+QA+e+Help+Desk" width="50%" alt="Olá, eu sou o Wagner!" />
 
 Sou do **Rio de Janeiro** e atuo com **desenvolvimento Front-End**, **QA** e **Help Desk**. Uso o GitHub como caderno de estudos para acompanhar minha evolução em tecnologia.
 
